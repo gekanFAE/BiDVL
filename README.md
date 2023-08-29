@@ -1,4 +1,4 @@
-# Official PyTorch implementation of "Bi-level Double Variational Learning for Energy-based Latent Variable Models" [(CVPR 2022 Paper)](https://arxiv.org/abs/2203.14702)
+# Official PyTorch implementation of "Bi-level Doubly Variational Learning for Energy-based Latent Variable Models" [(CVPR 2022 Paper)](https://arxiv.org/abs/2203.14702)
 
 ## Requirements:
 
